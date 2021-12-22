@@ -4,7 +4,14 @@
         <link>http://andychen1024.github.io/posts/</link>
         <description>所有文章 | 一个记录自己生活及学习的地方</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>sorrowdrug@google.com (AndyChen)</managingEditor>
-            <webMaster>sorrowdrug@google.com (AndyChen)</webMaster><lastBuildDate>Tue, 21 Dec 2021 20:24:38 &#43;0800</lastBuildDate><atom:link href="http://andychen1024.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>sorrowdrug@google.com (AndyChen)</webMaster><lastBuildDate>Wed, 22 Dec 2021 16:28:43 &#43;0800</lastBuildDate><atom:link href="http://andychen1024.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>处理Gravatar被墙</title>
+    <link>http://andychen1024.github.io/2021/12/%E5%A4%84%E7%90%86gravatar%E8%A2%AB%E5%A2%99/</link>
+    <pubDate>Wed, 22 Dec 2021 16:28:43 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://andychen1024.github.io/2021/12/%E5%A4%84%E7%90%86gravatar%E8%A2%AB%E5%A2%99/</guid>
+    <description><![CDATA[由于LoveIt主题头像可使用Gravatar，所以，尝试了下。 但是国内环境有时候会由于被墙，而使的头像无法看到。 可以修改theme/Lov]]></description>
+</item><item>
     <title>LoveIt主题小bug处理</title>
     <link>http://andychen1024.github.io/2021/12/loveit%E4%B8%BB%E9%A2%98%E5%B0%8Fbug%E5%A4%84%E7%90%86/</link>
     <pubDate>Tue, 21 Dec 2021 20:24:38 &#43;0800</pubDate>
