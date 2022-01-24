@@ -10,7 +10,7 @@
     <pubDate>Mon, 24 Jan 2022 17:56:40 &#43;0800</pubDate>
     <author>作者</author>
     <guid>http://andychen1024.github.io/2022/01/%E9%80%9A%E8%BF%87github-actions%E6%89%93%E5%8C%85apk%E5%88%B0%E8%92%B2%E5%85%AC%E8%8B%B1/</guid>
-    <description><![CDATA[workflow的名称，会显示在github 的项目的Actions的右边列表中，如下图 name: Android CI #处理的分支，一般是master或者releas]]></description>
+    <description><![CDATA[Github Actions 主要处理的yml文件示例： 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 # workflo]]></description>
 </item><item>
     <title>处理Gravatar被墙</title>
     <link>http://andychen1024.github.io/2021/12/%E5%A4%84%E7%90%86gravatar%E8%A2%AB%E5%A2%99/</link>
