@@ -52,6 +52,6 @@ jobs:
           method: POST
           # ${{ secrets.pgyer_key }} 使用秘钥，秘钥在github的setting中设置
           forms: '{"_api_key":"${{ secrets.learn_app_secret }}","buildInstallType":3}'
-          fileForms: '{"file":"app/build/outputs/apk/debug/app-debug.apk"}'480
+          fileForms: '{"file":"app/build/outputs/apk/debug/app-debug.apk"}'
 ```
 
